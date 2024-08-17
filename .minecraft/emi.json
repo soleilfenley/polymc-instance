@@ -1,0 +1,28 @@
+{
+  "favorites": [],
+  "lookup_history": [],
+  "craft_history": [
+    "minecraft:chest",
+    "minecraft:spruce_planks",
+    "minecraft:torch",
+    "minecraft:stone_axe",
+    "minecraft:iron_shovel",
+    "minecraft:stick",
+    "minecraft:iron_sword",
+    "minecraft:iron_helmet",
+    "minecraft:iron_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_sword",
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_sword"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
