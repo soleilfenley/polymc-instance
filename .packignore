@@ -1,5 +1,8 @@
+.git
 .minecraft/.cache
 .minecraft/XaeroWaypoints
+.minecraft/XaeroWaypoints
+.minecraft/XaeroWaypoints_BACKUP032021
 .minecraft/XaeroWaypoints_BACKUP032021
 .minecraft/XaeroWorldMap
 .minecraft/config
@@ -10,7 +13,9 @@
 .minecraft/patchouli_books
 .minecraft/patchouli_data.json
 .minecraft/saves
+.minecraft/saves
 .minecraft/schematics
+.minecraft/screenshots
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/servers.dat_old
