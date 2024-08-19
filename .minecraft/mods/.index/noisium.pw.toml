@@ -1,0 +1,13 @@
+filename = 'noisium-forge-2.2.2+mc1.20-1.20.1.jar'
+name = 'Noisium'
+side = 'server'
+
+[download]
+hash = '3232c59e8d294faa17292ee1e1bbfdb315b947fb315e03d9ec2e41c18dd36f8f7bc90c95601db872eaf1ddb06f71222d10eb0a377db23d82aaf026ade15f85d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KuNKN7d2/versions/xwm7o9FD/noisium-forge-2.2.2%2Bmc1.20-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'KuNKN7d2'
+version = 'xwm7o9FD'

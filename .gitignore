@@ -18,3 +18,5 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 libraries
+/.minecraft/logs
+/.minecraft/crash-reports
