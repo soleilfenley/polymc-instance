@@ -17,5 +17,6 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 libraries
-/.minecraft/logs
-/.minecraft/crash-reports
+.minecraft/logs
+.minecraft/crash-reports
+/.minecraft/Distant_Horizons_server_data

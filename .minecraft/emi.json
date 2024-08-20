@@ -21,6 +21,9 @@
     "item:farmersdelight:tomato"
   ],
   "craft_history": [
+    "minecraft:diamond_sword",
+    "minecraft:stick",
+    "minecraft:crafting_table",
     "minecraft:raw_iron",
     "minecraft:iron_shovel",
     "minecraft:iron_ingot_from_nuggets",
@@ -36,12 +39,10 @@
     "minecraft:spruce_planks",
     "minecraft:torch",
     "minecraft:stone_axe",
-    "minecraft:stick",
     "minecraft:iron_helmet",
     "minecraft:stone_pickaxe",
     "minecraft:stone_sword",
     "minecraft:furnace",
-    "minecraft:crafting_table",
     "minecraft:wooden_pickaxe",
     "minecraft:wooden_sword"
   ],
