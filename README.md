@@ -62,10 +62,29 @@ This is a simple version check I make back and forth with the server and the cli
 
 Below is an example of how it works:
 
-`[Now actually put the example here lol]`
+**Compatible server & client version**
+
+<img width="369" alt="Screenshot 2024-08-20 at 10 25 09 AM" src="https://github.com/user-attachments/assets/f6e207b6-e495-43d1-b769-976e68028cbb">
+
+**Incompatible server & client version**
+
+<img width="693" alt="Screenshot 2024-08-20 at 10 27 20 AM" src="https://github.com/user-attachments/assets/d31ab6ed-3af1-4b97-9714-e2f227d5e0e7">
 
 ### GitHub Desktop
-This is as simple as clicking the, "Fetch origin" to check for updates. 
+This is as simple as clicking the, "Fetch origin" to check for updates. If there's an update, it'll say, "Pull origin" and on clicking it, it'll start bringing in any updated changes! 
+
+<img width="230" alt="Screenshot 2024-08-20 at 10 19 35 AM" src="https://github.com/user-attachments/assets/cfe34fa7-ba6b-4d16-8f43-ccdb899146e4">
+
+### Git
+You will need to get back to where you cloned the directory, depending on what OS you use.
+
+The command is simple for both:
+```
+git pull origin
+```
+
+> [!TIP]
+> An easy way to make pulling via Git easier for you is to create a **symbolic link**. This let's you put a directory in `PrismLauncher/instances`, while keeping the actual client in another directory, somewhere much easier to access.
 
 ## F.A.Q.
 ### I accidentally cloned the client to the wrong directory. How do I delete it?
