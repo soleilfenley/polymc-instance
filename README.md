@@ -6,12 +6,7 @@ If you are installing this on a new computer or never used Minecraft prior, you 
 
 If you've already installed Minecraft before using Minecraft's native launcher, look at the F.A.Q. for help if you run into issues.
 ## Requirements
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://prismlauncher.org/img/logo-text-darkmode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://prismlauncher.org/img/logo-text.svg">
-  <img alt="Shows a heaxgonal logo of various colors with the text, Prism Launcher." src="https://prismlauncher.org/img/logo-text.svg">
-</picture>
-
+### Prism Launcher
 This modpack is specifically designed to be an import into Prism Launcher.
 
 Download the latest version here: https://prismlauncher.org/download/
