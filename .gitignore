@@ -22,3 +22,4 @@
 /.minecraft/Distant_Horizons_server_data
 
 .minecraft/Distant_Horizons_server_data/PolyMC/overworld/DistantHorizons.sqlite
+*/.DS_Store
