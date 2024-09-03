@@ -320,7 +320,7 @@
   },
   "Visuals": {
     "enableRendering": true,
-    "enableSchematicRendering": true,
+    "enableSchematicRendering": false,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
