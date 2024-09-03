@@ -1,10 +1,10 @@
 {
   "selections": {
-    "mode": "SIMPLE"
+    "mode": "NORMAL"
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "operation_mode": "AREA_SELECTION",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -22,14 +22,14 @@
     "boxes": [
       {
         "pos1": [
-          0,
-          0,
-          0
+          275,
+          4,
+          268
         ],
         "pos2": [
-          0,
-          0,
-          0
+          254,
+          9,
+          281
         ],
         "name": "Unnamed"
       }

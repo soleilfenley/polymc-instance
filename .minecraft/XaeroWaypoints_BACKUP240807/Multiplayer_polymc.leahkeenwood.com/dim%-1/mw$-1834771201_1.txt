@@ -1,0 +1,18 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Fortress (Closest):F:123:77:466:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fortress:F:862:71:509:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fortress:F:1471:71:634:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:ANOTHER FORTRESS:A:1936:58:225:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:BLAZE SPAWNER.:B:3254:71:59:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:FORTRESS.:F:3249:73:46:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bastion:B:2911:58:14:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:-290:38:175:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-110:60:156:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-238:33:-397:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-246:43:-416:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gsdffgsd:G:-239:51:-406:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bastion?:B:-229:43:-395:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Latest Death:D:220:73:5:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Nether Portal:N:86:82:79:13:false:0:gui.xaero_default:false:0:0:false

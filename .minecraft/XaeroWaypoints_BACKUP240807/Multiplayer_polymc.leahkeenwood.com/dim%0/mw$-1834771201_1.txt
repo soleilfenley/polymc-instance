@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Where it Began:W:-3:102:-4:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cherry Area:C:1231:85:2745:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Home:H:815:112:574:6:false:0:gui.xaero_default:false:0:0:false

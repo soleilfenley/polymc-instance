@@ -23,4 +23,10 @@ libraries
 .minecraft/xaero
 .minecraft/server.dat
 /.minecraft/Distant_Horizons_server_data
+<<<<<<< Updated upstream
 */.DS_Store
+=======
+
+.minecraft/Distant_Horizons_server_data/PolyMC/overworld/DistantHorizons.sqlite
+.minecraft/servers.dat
+>>>>>>> Stashed changes
