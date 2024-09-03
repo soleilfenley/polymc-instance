@@ -23,3 +23,4 @@ libraries
 .minecraft/xaero
 .minecraft/server.dat
 /.minecraft/Distant_Horizons_server_data
+*/.DS_Store
