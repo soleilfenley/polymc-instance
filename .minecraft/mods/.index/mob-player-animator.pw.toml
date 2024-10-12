@@ -1,0 +1,13 @@
+filename = 'Mob Player Animator-forge-1.20.1-1.2.1-all.jar'
+name = 'Mob Player Animator'
+side = 'client'
+
+[download]
+hash = '103f78c9e84a02d91091a1fc9b148621074822be12d74379d8fdd059730d48e377db627382ed34ee5542bac9655ff5de3f2808dea599e13393d339784e50b15b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zkK9lPaS/versions/mkGoxoNR/Mob Player Animator-forge-1.20.1-1.2.1-all.jar'
+
+[update.modrinth]
+mod-id = 'zkK9lPaS'
+version = 'mkGoxoNR'
